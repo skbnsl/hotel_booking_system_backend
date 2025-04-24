@@ -34,5 +34,5 @@ public class UserDTO {
 
     private Boolean isActive;
 
-    private LocalDateTime time;
+    private LocalDateTime createdAt;
 }
